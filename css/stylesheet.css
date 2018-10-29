@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/subset-Roboto-Black.woff2') format('woff2'),
+        url('../fonts/subset-Roboto-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/subset-Roboto-Bold.woff2') format('woff2'),
+        url('../fonts/subset-Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/subset-Roboto-Thin.woff2') format('woff2'),
+        url('../fonts/subset-Roboto-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/subset-OpenSans.woff2') format('woff2'),
+        url('../fonts/subset-OpenSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/subset-OpenSans-Semibold.woff2') format('woff2'),
+        url('../fonts/subset-OpenSans-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/subset-Roboto-Medium.woff2') format('woff2'),
+        url('../fonts/subset-Roboto-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arvo';
+    src: url('../fonts/subset-Arvo.woff2') format('woff2'),
+        url('../fonts/subset-Arvo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
